@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "contact",
+  "short_name": "contact",
+  "version": "com.julie.phonegap",
+  "description": "A basic Framework7 template for PhoneGap.",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
